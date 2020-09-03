@@ -1,0 +1,4 @@
+ckey = '7Bva********************uOBE'
+csecret = 'OSMn*****************IUJL'
+atoken = '1169******************BUUbQ'
+asecret = 'OHZ******************UG9ks'
